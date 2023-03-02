@@ -14,4 +14,14 @@ public class Data2 {
 			System.out.println(e);
 		}*/
 		
+
+		//1) A scenario where ArithmeticException occurs.
+		/*try{
+			int a = 10/0;
+		}catch(Exception e) {
+			System.out.println(e);
+		}*/
 		
+
+	}
+}	
