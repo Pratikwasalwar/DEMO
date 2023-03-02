@@ -14,15 +14,4 @@ public class Data2 {
 			System.out.println(e);
 		}*/
 		
-		//2) A scenario where NullPointerException occurs
 		
-		try {
-			String s = null;
-		} catch(NullPointerException e) {
-			System.out.println(e);
-		}
-		
-		System.out.println("how are you");
-		System.out.println("i am fine ");
-	}
-}
