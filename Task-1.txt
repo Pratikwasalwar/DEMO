@@ -1,2 +1,0 @@
-1. store Data On DB
-2. Create the custome Query and Get list of User Data By Clientid. ( time duration 25-04 upto 10 pm).
